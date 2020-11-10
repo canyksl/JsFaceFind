@@ -1,0 +1,23 @@
+
+body {
+  background-color: rgb(37, 37, 37);
+}
+.container{
+  position: relative;
+  width: 800px;
+  height: auto;
+  margin: 20px auto;
+  border: 10px solid #ffffff;
+  box-shadow: 0 5px 5px #000000;
+
+}
+.image{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.face{
+  position: absolute;
+  border: 2px solid #ffffff;
+
+}
